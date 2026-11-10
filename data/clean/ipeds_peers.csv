@@ -1,0 +1,529 @@
+unitid,institution,state,year,retention_rate,grad_rate_6yr,enrollment,big_ten,is_uiuc
+100663,University of Alabama at Birmingham,AL,2019,83.0,63.4,22080,Other public R1,Peer
+100706,University of Alabama in Huntsville,AL,2019,83.0,57.7,9988,Other public R1,Peer
+100751,The University of Alabama,AL,2019,87.0,71.1,38100,Other public R1,Peer
+100858,Auburn University,AL,2019,91.0,79.1,30460,Other public R1,Peer
+104151,Arizona State University Campus Immersion,AZ,2019,88.0,63.5,53286,Other public R1,Peer
+104179,University of Arizona,AZ,2019,83.0,64.7,44577,Other public R1,Peer
+106397,University of Arkansas,AR,2019,84.0,66.2,27559,Other public R1,Peer
+110635,University of California-Berkeley,CA,2019,97.0,92.6,43185,Other public R1,Peer
+110644,University of California-Davis,CA,2019,92.0,86.7,38634,Other public R1,Peer
+110653,University of California-Irvine,CA,2019,94.0,84.4,36908,Other public R1,Peer
+110662,University of California-Los Angeles,CA,2019,97.0,91.5,44371,Big Ten,Peer
+110671,University of California-Riverside,CA,2019,90.0,76.0,25547,Other public R1,Peer
+110680,University of California-San Diego,CA,2019,93.0,87.4,38736,Other public R1,Peer
+110705,University of California-Santa Barbara,CA,2019,92.0,83.4,26314,Other public R1,Peer
+110714,University of California-Santa Cruz,CA,2019,89.0,75.0,19494,Other public R1,Peer
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,2019,70.0,51.8,24910,Other public R1,Peer
+126614,University of Colorado Boulder,CO,2019,87.0,69.1,37883,Other public R1,Peer
+126775,Colorado School of Mines,CO,2019,92.0,82.9,6628,Other public R1,Peer
+126818,Colorado State University-Fort Collins,CO,2019,84.0,69.6,33426,Other public R1,Peer
+129020,University of Connecticut,CT,2019,94.0,84.4,27280,Other public R1,Peer
+130943,University of Delaware,DE,2019,91.0,80.7,23808,Other public R1,Peer
+132903,University of Central Florida,FL,2019,91.0,72.3,69402,Other public R1,Peer
+133951,Florida International University,FL,2019,89.0,62.6,58711,Other public R1,Peer
+134097,Florida State University,FL,2019,93.0,83.1,42450,Other public R1,Peer
+134130,University of Florida,FL,2019,97.0,88.3,52407,Other public R1,Peer
+137351,University of South Florida,FL,2019,91.0,75.1,44246,Other public R1,Peer
+139755,Georgia Institute of Technology-Main Campus,GA,2019,97.0,89.8,36302,Other public R1,Peer
+139940,Georgia State University,GA,2019,82.0,54.7,35041,Other public R1,Peer
+139959,University of Georgia,GA,2019,96.0,87.1,38920,Other public R1,Peer
+141574,University of Hawaii at Manoa,HI,2019,81.0,60.5,17490,Other public R1,Peer
+145600,University of Illinois Chicago,IL,2019,79.0,60.5,32324,Other public R1,Peer
+145637,University of Illinois Urbana-Champaign,IL,2019,93.0,85.1,51605,Big Ten,UIUC
+151351,Indiana University-Bloomington,IN,2019,90.0,78.9,43260,Big Ten,Peer
+153603,Iowa State University,IA,2019,87.0,74.1,33372,Other public R1,Peer
+153658,University of Iowa,IA,2019,86.0,72.2,31240,Big Ten,Peer
+155317,University of Kansas,KS,2019,86.0,66.5,27552,Other public R1,Peer
+155399,Kansas State University,KS,2019,86.0,65.2,21719,Other public R1,Peer
+157085,University of Kentucky,KY,2019,85.0,66.5,29402,Other public R1,Peer
+157289,University of Louisville,KY,2019,80.0,58.6,21670,Other public R1,Peer
+159391,Louisiana State University and Agricultural & Mechanical College,LA,2019,83.0,68.1,31756,Other public R1,Peer
+160658,University of Louisiana at Lafayette,LA,2019,76.0,51.5,16933,Other public R1,Peer
+161253,University of Maine,ME,2019,74.0,56.7,11561,Other public R1,Peer
+163268,University of Maryland-Baltimore County,MD,2019,87.0,71.0,13602,Other public R1,Peer
+163286,University of Maryland-College Park,MD,2019,95.0,87.0,40743,Big Ten,Peer
+166629,University of Massachusetts-Amherst,MA,2019,91.0,81.9,31350,Other public R1,Peer
+170976,University of Michigan-Ann Arbor,MI,2019,97.0,93.2,48090,Big Ten,Peer
+171100,Michigan State University,MI,2019,91.0,80.7,49809,Big Ten,Peer
+172644,Wayne State University,MI,2019,79.0,47.6,26824,Other public R1,Peer
+174066,University of Minnesota-Twin Cities,MN,2019,93.0,82.9,51327,Big Ten,Peer
+176017,University of Mississippi,MS,2019,87.0,65.8,21617,Other public R1,Peer
+176080,Mississippi State University,MS,2019,82.0,61.5,22226,Other public R1,Peer
+176372,University of Southern Mississippi,MS,2019,68.0,49.0,14133,Other public R1,Peer
+178396,University of Missouri-Columbia,MO,2019,88.0,71.3,30014,Other public R1,Peer
+180461,Montana State University,MT,2019,77.0,56.8,16692,Other public R1,Peer
+180489,The University of Montana,MT,2019,71.0,44.5,10487,Other public R1,Peer
+181464,University of Nebraska-Lincoln,NE,2019,81.0,65.5,25390,Big Ten,Peer
+182281,University of Nevada-Las Vegas,NV,2019,79.0,44.7,31171,Other public R1,Peer
+182290,University of Nevada-Reno,NV,2019,81.0,61.1,20993,Other public R1,Peer
+183044,University of New Hampshire-Main Campus,NH,2019,86.0,76.5,14788,Other public R1,Peer
+185828,New Jersey Institute of Technology,NJ,2019,88.0,67.2,11518,Other public R1,Peer
+186380,Rutgers University-New Brunswick,NJ,2019,93.0,83.8,50173,Big Ten,Peer
+187985,University of New Mexico-Main Campus,NM,2019,77.0,53.7,22729,Other public R1,Peer
+196060,University at Albany,NY,2019,80.0,62.9,17544,Other public R1,Peer
+196079,Binghamton University,NY,2019,90.0,81.6,18124,Other public R1,Peer
+196088,University at Buffalo,NY,2019,86.0,75.2,31923,Other public R1,Peer
+196097,Stony Brook University,NY,2019,89.0,76.4,26814,Other public R1,Peer
+199120,University of North Carolina at Chapel Hill,NC,2019,96.0,90.6,29877,Other public R1,Peer
+199193,North Carolina State University at Raleigh,NC,2019,94.0,81.9,36304,Other public R1,Peer
+200332,North Dakota State University-Main Campus,ND,2019,79.0,60.3,13173,Other public R1,Peer
+201885,University of Cincinnati-Main Campus,OH,2019,88.0,71.3,39263,Other public R1,Peer
+203517,Kent State University at Kent,OH,2019,81.0,61.6,27716,Other public R1,Peer
+204796,Ohio State University-Main Campus,OH,2019,94.0,85.8,61391,Big Ten,Peer
+204857,Ohio University-Main Campus,OH,2019,82.0,65.1,27367,Other public R1,Peer
+207388,Oklahoma State University-Main Campus,OK,2019,83.0,64.6,24079,Other public R1,Peer
+207500,University of Oklahoma-Norman Campus,OK,2019,88.0,70.2,28079,Other public R1,Peer
+209542,Oregon State University,OR,2019,85.0,67.1,31719,Other public R1,Peer
+209551,University of Oregon,OR,2019,86.0,74.4,22517,Big Ten,Peer
+214777,Pennsylvania State University-Main Campus,PA,2019,88.0,70.9,91427,Big Ten,Peer
+215293,University of Pittsburgh-Pittsburgh Campus,PA,2019,93.0,82.9,32686,Other public R1,Peer
+216339,Temple University,PA,2019,89.0,73.7,38794,Other public R1,Peer
+217882,Clemson University,SC,2019,93.0,83.7,25822,Other public R1,Peer
+218663,University of South Carolina-Columbia,SC,2019,89.0,76.8,35364,Other public R1,Peer
+220862,University of Memphis,TN,2019,78.0,53.2,21685,Other public R1,Peer
+221759,The University of Tennessee-Knoxville,TN,2019,87.0,72.2,29460,Other public R1,Peer
+225511,University of Houston,TX,2019,85.0,61.3,46148,Other public R1,Peer
+227216,University of North Texas,TX,2019,79.0,56.2,39336,Other public R1,Peer
+228723,Texas A & M University-College Station,TX,2019,93.0,81.7,68726,Other public R1,Peer
+228769,The University of Texas at Arlington,TX,2019,75.0,51.2,48635,Other public R1,Peer
+228778,The University of Texas at Austin,TX,2019,96.0,85.6,51090,Other public R1,Peer
+228787,The University of Texas at Dallas,TX,2019,89.0,69.8,29543,Other public R1,Peer
+228796,The University of Texas at El Paso,TX,2019,75.0,37.1,25177,Other public R1,Peer
+229027,The University of Texas at San Antonio,TX,2019,73.0,42.3,32594,Other public R1,Peer
+229115,Texas Tech University,TX,2019,87.0,61.0,38742,Other public R1,Peer
+230728,Utah State University,UT,2019,74.0,54.0,27810,Other public R1,Peer
+230764,University of Utah,UT,2019,89.0,69.5,32852,Other public R1,Peer
+232186,George Mason University,VA,2019,86.0,70.7,37863,Other public R1,Peer
+232982,Old Dominion University,VA,2019,80.0,52.8,23675,Other public R1,Peer
+233921,Virginia Polytechnic Institute and State University,VA,2019,93.0,85.7,36383,Other public R1,Peer
+234030,Virginia Commonwealth University,VA,2019,83.0,67.2,29757,Other public R1,Peer
+234076,University of Virginia-Main Campus,VA,2019,97.0,94.6,25012,Other public R1,Peer
+236939,Washington State University,WA,2019,79.0,60.2,31607,Other public R1,Peer
+236948,University of Washington-Seattle Campus,WA,2019,95.0,84.2,47576,Big Ten,Peer
+238032,West Virginia University,WV,2019,79.0,60.9,26839,Other public R1,Peer
+240444,University of Wisconsin-Madison,WI,2019,95.0,87.6,44257,Big Ten,Peer
+240453,University of Wisconsin-Milwaukee,WI,2019,76.0,43.9,25731,Other public R1,Peer
+243780,Purdue University-Main Campus,IN,2019,91.0,81.9,45500,Big Ten,Peer
+100663,University of Alabama at Birmingham,AL,2020,86.0,61.2,22563,Other public R1,Peer
+100706,University of Alabama in Huntsville,AL,2020,82.0,57.1,9999,Other public R1,Peer
+100751,The University of Alabama,AL,2020,87.0,72.1,37840,Other public R1,Peer
+100858,Auburn University,AL,2020,92.0,78.7,30737,Other public R1,Peer
+104151,Arizona State University Campus Immersion,AZ,2020,86.0,66.0,74795,Other public R1,Peer
+104179,University of Arizona,AZ,2020,85.0,64.9,45601,Other public R1,Peer
+106397,University of Arkansas,AR,2020,85.0,68.5,27562,Other public R1,Peer
+110635,University of California-Berkeley,CA,2020,96.0,92.3,42327,Other public R1,Peer
+110644,University of California-Davis,CA,2020,93.0,86.2,39074,Other public R1,Peer
+110653,University of California-Irvine,CA,2020,94.0,85.0,36303,Other public R1,Peer
+110662,University of California-Los Angeles,CA,2020,96.0,91.3,44589,Big Ten,Peer
+110671,University of California-Riverside,CA,2020,91.0,77.3,26434,Other public R1,Peer
+110680,University of California-San Diego,CA,2020,94.0,87.1,39576,Other public R1,Peer
+110705,University of California-Santa Barbara,CA,2020,91.0,84.0,26179,Other public R1,Peer
+110714,University of California-Santa Cruz,CA,2020,85.0,75.5,19161,Other public R1,Peer
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,2020,73.0,44.4,24723,Other public R1,Peer
+126614,University of Colorado Boulder,CO,2020,85.0,72.5,37437,Other public R1,Peer
+126775,Colorado School of Mines,CO,2020,92.0,84.2,6744,Other public R1,Peer
+126818,Colorado State University-Fort Collins,CO,2020,85.0,70.2,32428,Other public R1,Peer
+129020,University of Connecticut,CT,2020,93.0,83.0,27215,Other public R1,Peer
+130943,University of Delaware,DE,2020,90.0,82.5,23613,Other public R1,Peer
+132903,University of Central Florida,FL,2020,92.0,74.0,71881,Other public R1,Peer
+133951,Florida International University,FL,2020,91.0,67.0,58836,Other public R1,Peer
+134097,Florida State University,FL,2020,95.0,84.2,43569,Other public R1,Peer
+134130,University of Florida,FL,2020,97.0,88.6,53372,Other public R1,Peer
+137351,University of South Florida,FL,2020,92.0,73.7,50626,Other public R1,Peer
+139755,Georgia Institute of Technology-Main Campus,GA,2020,97.0,90.7,39771,Other public R1,Peer
+139940,Georgia State University,GA,2020,81.0,53.1,36360,Other public R1,Peer
+139959,University of Georgia,GA,2020,94.0,87.2,39147,Other public R1,Peer
+141574,University of Hawaii at Manoa,HI,2020,80.0,61.8,18025,Other public R1,Peer
+145600,University of Illinois Chicago,IL,2020,82.0,63.5,33518,Other public R1,Peer
+145637,University of Illinois Urbana-Champaign,IL,2020,94.0,86.2,52679,Big Ten,UIUC
+151351,Indiana University-Bloomington,IN,2020,91.0,79.8,43064,Big Ten,Peer
+153603,Iowa State University,IA,2020,89.0,74.7,31822,Other public R1,Peer
+153658,University of Iowa,IA,2020,88.0,72.2,30318,Big Ten,Peer
+155317,University of Kansas,KS,2020,86.0,63.1,26744,Other public R1,Peer
+155399,Kansas State University,KS,2020,87.0,67.5,20854,Other public R1,Peer
+157085,University of Kentucky,KY,2020,86.0,66.4,29986,Other public R1,Peer
+157289,University of Louisville,KY,2020,81.0,60.3,22211,Other public R1,Peer
+159391,Louisiana State University and Agricultural & Mechanical College,LA,2020,86.0,69.6,34285,Other public R1,Peer
+160658,University of Louisiana at Lafayette,LA,2020,79.0,51.2,16450,Other public R1,Peer
+161253,University of Maine,ME,2020,78.0,56.5,11741,Other public R1,Peer
+163268,University of Maryland-Baltimore County,MD,2020,87.0,70.3,13497,Other public R1,Peer
+163286,University of Maryland-College Park,MD,2020,95.0,87.0,40709,Big Ten,Peer
+166629,University of Massachusetts-Amherst,MA,2020,89.0,83.3,31642,Other public R1,Peer
+170976,University of Michigan-Ann Arbor,MI,2020,96.0,93.4,47907,Big Ten,Peer
+171100,Michigan State University,MI,2020,91.0,81.3,49695,Big Ten,Peer
+172644,Wayne State University,MI,2020,82.0,51.9,26241,Other public R1,Peer
+174066,University of Minnesota-Twin Cities,MN,2020,93.0,84.3,52017,Big Ten,Peer
+176017,University of Mississippi,MS,2020,86.0,66.7,21014,Other public R1,Peer
+176080,Mississippi State University,MS,2020,85.0,64.2,22986,Other public R1,Peer
+176372,University of Southern Mississippi,MS,2020,75.0,49.7,14606,Other public R1,Peer
+178396,University of Missouri-Columbia,MO,2020,89.0,73.0,31089,Other public R1,Peer
+180461,Montana State University,MT,2020,78.0,59.8,16216,Other public R1,Peer
+180489,The University of Montana,MT,2020,74.0,44.2,9808,Other public R1,Peer
+181464,University of Nebraska-Lincoln,NE,2020,85.0,66.0,25108,Big Ten,Peer
+182281,University of Nevada-Las Vegas,NV,2020,80.0,44.3,31142,Other public R1,Peer
+182290,University of Nevada-Reno,NV,2020,80.0,60.4,20722,Other public R1,Peer
+183044,University of New Hampshire-Main Campus,NH,2020,86.0,76.5,14348,Other public R1,Peer
+185828,New Jersey Institute of Technology,NJ,2020,89.0,70.0,11652,Other public R1,Peer
+186380,Rutgers University-New Brunswick,NJ,2020,93.0,84.5,50411,Big Ten,Peer
+187985,University of New Mexico-Main Campus,NM,2020,77.0,53.9,22311,Other public R1,Peer
+196060,University at Albany,NY,2020,83.0,65.0,17688,Other public R1,Peer
+196079,Binghamton University,NY,2020,92.0,81.7,18148,Other public R1,Peer
+196088,University at Buffalo,NY,2020,87.0,75.1,32347,Other public R1,Peer
+196097,Stony Brook University,NY,2020,90.0,76.3,26782,Other public R1,Peer
+199120,University of North Carolina at Chapel Hill,NC,2020,95.0,90.7,30092,Other public R1,Peer
+199193,North Carolina State University at Raleigh,NC,2020,94.0,83.9,36042,Other public R1,Peer
+200332,North Dakota State University-Main Campus,ND,2020,82.0,62.3,12846,Other public R1,Peer
+201885,University of Cincinnati-Main Campus,OH,2020,88.0,72.8,40151,Other public R1,Peer
+203517,Kent State University at Kent,OH,2020,82.0,65.0,26822,Other public R1,Peer
+204796,Ohio State University-Main Campus,OH,2020,94.0,87.0,61369,Big Ten,Peer
+204857,Ohio University-Main Campus,OH,2020,81.0,66.1,25714,Other public R1,Peer
+207388,Oklahoma State University-Main Campus,OK,2020,85.0,63.7,24535,Other public R1,Peer
+207500,University of Oklahoma-Norman Campus,OK,2020,87.0,72.1,27772,Other public R1,Peer
+209542,Oregon State University,OR,2020,85.0,69.3,32312,Other public R1,Peer
+209551,University of Oregon,OR,2020,84.0,73.9,21752,Big Ten,Peer
+215293,University of Pittsburgh-Pittsburgh Campus,PA,2020,93.0,83.5,32277,Other public R1,Peer
+216339,Temple University,PA,2020,87.0,74.8,37236,Other public R1,Peer
+217882,Clemson University,SC,2020,94.0,84.9,26406,Other public R1,Peer
+218663,University of South Carolina-Columbia,SC,2020,90.0,78.0,35470,Other public R1,Peer
+220862,University of Memphis,TN,2020,80.0,51.5,22205,Other public R1,Peer
+221759,The University of Tennessee-Knoxville,TN,2020,89.0,71.1,30559,Other public R1,Peer
+225511,University of Houston,TX,2020,86.0,62.2,47090,Other public R1,Peer
+227216,University of North Texas,TX,2020,85.0,57.1,40953,Other public R1,Peer
+228723,Texas A & M University-College Station,TX,2020,94.0,82.5,70418,Other public R1,Peer
+228769,The University of Texas at Arlington,TX,2020,76.0,52.4,48072,Other public R1,Peer
+228778,The University of Texas at Austin,TX,2020,97.0,87.6,50476,Other public R1,Peer
+228787,The University of Texas at Dallas,TX,2020,90.0,69.2,28669,Other public R1,Peer
+228796,The University of Texas at El Paso,TX,2020,77.0,44.4,24879,Other public R1,Peer
+229027,The University of Texas at San Antonio,TX,2020,78.0,46.3,34742,Other public R1,Peer
+229115,Texas Tech University,TX,2020,87.0,63.4,40227,Other public R1,Peer
+230728,Utah State University,UT,2020,73.0,49.8,27691,Other public R1,Peer
+230764,University of Utah,UT,2020,89.0,67.1,33081,Other public R1,Peer
+232186,George Mason University,VA,2020,86.0,71.6,38541,Other public R1,Peer
+232982,Old Dominion University,VA,2020,76.0,52.7,24286,Other public R1,Peer
+233921,Virginia Polytechnic Institute and State University,VA,2020,93.0,86.1,37024,Other public R1,Peer
+234030,Virginia Commonwealth University,VA,2020,83.0,66.1,29070,Other public R1,Peer
+234076,University of Virginia-Main Campus,VA,2020,97.0,94.0,25628,Other public R1,Peer
+236939,Washington State University,WA,2020,81.0,58.5,31159,Other public R1,Peer
+236948,University of Washington-Seattle Campus,WA,2020,93.0,82.0,48149,Big Ten,Peer
+238032,West Virginia University,WV,2020,82.0,61.8,26269,Other public R1,Peer
+240444,University of Wisconsin-Madison,WI,2020,95.0,88.4,44640,Big Ten,Peer
+240453,University of Wisconsin-Milwaukee,WI,2020,75.0,45.6,24565,Other public R1,Peer
+243780,Purdue University-Main Campus,IN,2020,93.0,82.8,46655,Big Ten,Peer
+100663,University of Alabama at Birmingham,AL,2021,84.0,62.5,22289,Other public R1,Peer
+100706,University of Alabama in Huntsville,AL,2021,79.0,60.7,9636,Other public R1,Peer
+100751,The University of Alabama,AL,2021,89.0,72.2,38316,Other public R1,Peer
+100858,Auburn University,AL,2021,93.0,80.9,31526,Other public R1,Peer
+104151,Arizona State University Campus Immersion,AZ,2021,86.0,66.0,77881,Other public R1,Peer
+104179,University of Arizona,AZ,2021,84.0,64.3,48274,Other public R1,Peer
+106397,University of Arkansas,AR,2021,87.0,69.7,29068,Other public R1,Peer
+110635,University of California-Berkeley,CA,2021,96.0,92.8,45036,Other public R1,Peer
+110644,University of California-Davis,CA,2021,91.0,86.9,40050,Other public R1,Peer
+110653,University of California-Irvine,CA,2021,93.0,83.7,36505,Other public R1,Peer
+110662,University of California-Los Angeles,CA,2021,97.0,92.1,46116,Big Ten,Peer
+110671,University of California-Riverside,CA,2021,88.0,76.5,26847,Other public R1,Peer
+110680,University of California-San Diego,CA,2021,95.0,89.3,41885,Other public R1,Peer
+110705,University of California-Santa Barbara,CA,2021,91.0,85.4,26124,Other public R1,Peer
+110714,University of California-Santa Cruz,CA,2021,89.0,78.1,19841,Other public R1,Peer
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,2021,75.0,48.0,24267,Other public R1,Peer
+126614,University of Colorado Boulder,CO,2021,87.0,74.0,39000,Other public R1,Peer
+126775,Colorado School of Mines,CO,2021,91.0,83.3,7187,Other public R1,Peer
+126818,Colorado State University-Fort Collins,CO,2021,86.0,69.1,32586,Other public R1,Peer
+129020,University of Connecticut,CT,2021,92.0,83.1,26876,Other public R1,Peer
+130943,University of Delaware,DE,2021,91.0,82.3,23996,Other public R1,Peer
+132903,University of Central Florida,FL,2021,92.0,74.9,70309,Other public R1,Peer
+133951,Florida International University,FL,2021,90.0,67.1,56664,Other public R1,Peer
+134097,Florida State University,FL,2021,94.0,83.2,45130,Other public R1,Peer
+134130,University of Florida,FL,2021,97.0,90.9,55781,Other public R1,Peer
+137351,University of South Florida,FL,2021,90.0,74.6,49708,Other public R1,Peer
+139755,Georgia Institute of Technology-Main Campus,GA,2021,97.0,91.9,43843,Other public R1,Peer
+139940,Georgia State University,GA,2021,75.0,56.3,36973,Other public R1,Peer
+139959,University of Georgia,GA,2021,95.0,87.8,40118,Other public R1,Peer
+141574,University of Hawaii at Manoa,HI,2021,80.0,58.9,19098,Other public R1,Peer
+145600,University of Illinois Chicago,IL,2021,81.0,62.3,34199,Other public R1,Peer
+145637,University of Illinois Urbana-Champaign,IL,2021,93.0,84.9,56607,Big Ten,UIUC
+151351,Indiana University-Bloomington,IN,2021,90.0,80.8,45328,Big Ten,Peer
+153603,Iowa State University,IA,2021,88.0,76.0,30708,Other public R1,Peer
+153658,University of Iowa,IA,2021,88.0,73.7,29909,Big Ten,Peer
+155317,University of Kansas,KS,2021,85.0,66.0,26780,Other public R1,Peer
+155399,Kansas State University,KS,2021,86.0,68.4,20229,Other public R1,Peer
+157085,University of Kentucky,KY,2021,86.0,68.2,30390,Other public R1,Peer
+157289,University of Louisville,KY,2021,77.0,62.5,22140,Other public R1,Peer
+159391,Louisiana State University and Agricultural & Mechanical College,LA,2021,84.0,69.0,35912,Other public R1,Peer
+160658,University of Louisiana at Lafayette,LA,2021,75.0,50.1,16225,Other public R1,Peer
+161253,University of Maine,ME,2021,76.0,56.8,12657,Other public R1,Peer
+163268,University of Maryland-Baltimore County,MD,2021,87.0,70.9,13638,Other public R1,Peer
+163286,University of Maryland-College Park,MD,2021,95.0,87.7,41272,Big Ten,Peer
+166629,University of Massachusetts-Amherst,MA,2021,91.0,83.7,32045,Other public R1,Peer
+170976,University of Michigan-Ann Arbor,MI,2021,97.0,93.7,50278,Big Ten,Peer
+171100,Michigan State University,MI,2021,92.0,82.1,49659,Big Ten,Peer
+172644,Wayne State University,MI,2021,81.0,55.8,24919,Other public R1,Peer
+174066,University of Minnesota-Twin Cities,MN,2021,92.0,84.2,52376,Big Ten,Peer
+176017,University of Mississippi,MS,2021,88.0,68.4,21203,Other public R1,Peer
+176080,Mississippi State University,MS,2021,81.0,59.7,23086,Other public R1,Peer
+176372,University of Southern Mississippi,MS,2021,70.0,51.8,14146,Other public R1,Peer
+178396,University of Missouri-Columbia,MO,2021,88.0,72.5,31401,Other public R1,Peer
+180461,Montana State University,MT,2021,76.0,54.5,16788,Other public R1,Peer
+180489,The University of Montana,MT,2021,75.0,47.7,10106,Other public R1,Peer
+181464,University of Nebraska-Lincoln,NE,2021,80.0,66.4,24431,Big Ten,Peer
+182281,University of Nevada-Las Vegas,NV,2021,77.0,47.2,30679,Other public R1,Peer
+182290,University of Nevada-Reno,NV,2021,78.0,62.7,21034,Other public R1,Peer
+183044,University of New Hampshire-Main Campus,NH,2021,87.0,77.8,14001,Other public R1,Peer
+185828,New Jersey Institute of Technology,NJ,2021,88.0,73.7,11901,Other public R1,Peer
+186380,Rutgers University-New Brunswick,NJ,2021,94.0,83.7,50804,Big Ten,Peer
+187985,University of New Mexico-Main Campus,NM,2021,68.0,53.6,22139,Other public R1,Peer
+196060,University at Albany,NY,2021,82.0,66.3,17075,Other public R1,Peer
+196079,Binghamton University,NY,2021,91.0,83.8,18055,Other public R1,Peer
+196088,University at Buffalo,NY,2021,83.0,73.8,32332,Other public R1,Peer
+196097,Stony Brook University,NY,2021,89.0,77.7,26608,Other public R1,Peer
+199120,University of North Carolina at Chapel Hill,NC,2021,97.0,91.9,31641,Other public R1,Peer
+199193,North Carolina State University at Raleigh,NC,2021,94.0,84.4,36831,Other public R1,Peer
+200332,North Dakota State University-Main Campus,ND,2021,76.0,64.9,12461,Other public R1,Peer
+201885,University of Cincinnati-Main Campus,OH,2021,87.0,73.0,40329,Other public R1,Peer
+203517,Kent State University at Kent,OH,2021,81.0,67.7,26597,Other public R1,Peer
+204796,Ohio State University-Main Campus,OH,2021,94.0,88.0,61677,Big Ten,Peer
+204857,Ohio University-Main Campus,OH,2021,81.0,66.9,24797,Other public R1,Peer
+207388,Oklahoma State University-Main Campus,OK,2021,83.0,65.5,24577,Other public R1,Peer
+207500,University of Oklahoma-Norman Campus,OK,2021,89.0,75.7,28042,Other public R1,Peer
+209542,Oregon State University,OR,2021,87.0,68.2,33193,Other public R1,Peer
+209551,University of Oregon,OR,2021,87.0,74.4,22257,Big Ten,Peer
+215293,University of Pittsburgh-Pittsburgh Campus,PA,2021,93.0,84.3,33230,Other public R1,Peer
+216339,Temple University,PA,2021,86.0,75.3,35626,Other public R1,Peer
+217882,Clemson University,SC,2021,94.0,85.5,27341,Other public R1,Peer
+218663,University of South Carolina-Columbia,SC,2021,87.0,78.2,35471,Other public R1,Peer
+220862,University of Memphis,TN,2021,72.0,54.4,21622,Other public R1,Peer
+221759,The University of Tennessee-Knoxville,TN,2021,88.0,72.1,31701,Other public R1,Peer
+225511,University of Houston,TX,2021,85.0,62.0,47031,Other public R1,Peer
+227216,University of North Texas,TX,2021,79.0,60.2,42441,Other public R1,Peer
+228723,Texas A & M University-College Station,TX,2021,93.0,83.4,72530,Other public R1,Peer
+228769,The University of Texas at Arlington,TX,2021,71.0,51.1,45949,Other public R1,Peer
+228778,The University of Texas at Austin,TX,2021,96.0,87.7,51991,Other public R1,Peer
+228787,The University of Texas at Dallas,TX,2021,88.0,71.7,29696,Other public R1,Peer
+228796,The University of Texas at El Paso,TX,2021,70.0,45.4,24003,Other public R1,Peer
+229027,The University of Texas at San Antonio,TX,2021,78.0,50.9,34734,Other public R1,Peer
+229115,Texas Tech University,TX,2021,85.0,62.7,40542,Other public R1,Peer
+230728,Utah State University,UT,2021,74.0,55.8,27426,Other public R1,Peer
+230764,University of Utah,UT,2021,87.0,67.2,34464,Other public R1,Peer
+232186,George Mason University,VA,2021,84.0,70.1,38628,Other public R1,Peer
+232982,Old Dominion University,VA,2021,72.0,48.7,23494,Other public R1,Peer
+233921,Virginia Polytechnic Institute and State University,VA,2021,92.0,86.6,37279,Other public R1,Peer
+234030,Virginia Commonwealth University,VA,2021,84.0,67.5,28594,Other public R1,Peer
+234076,University of Virginia-Main Campus,VA,2021,97.0,93.7,26005,Other public R1,Peer
+236939,Washington State University,WA,2021,81.0,59.5,29843,Other public R1,Peer
+236948,University of Washington-Seattle Campus,WA,2021,93.0,83.9,52434,Big Ten,Peer
+238032,West Virginia University,WV,2021,81.0,63.9,25476,Other public R1,Peer
+240444,University of Wisconsin-Madison,WI,2021,95.0,89.2,47016,Big Ten,Peer
+240453,University of Wisconsin-Milwaukee,WI,2021,76.0,47.3,23829,Other public R1,Peer
+243780,Purdue University-Main Campus,IN,2021,91.0,82.7,50344,Big Ten,Peer
+100663,University of Alabama at Birmingham,AL,2022,82.0,64.4,21639,Other public R1,Peer
+100706,University of Alabama in Huntsville,AL,2022,80.0,63.0,9237,Other public R1,Peer
+100751,The University of Alabama,AL,2022,87.0,72.8,38644,Other public R1,Peer
+100858,Auburn University,AL,2022,92.0,80.8,31764,Other public R1,Peer
+104151,Arizona State University Campus Immersion,AZ,2022,85.0,66.9,80065,Other public R1,Peer
+104179,University of Arizona,AZ,2022,86.0,67.9,49403,Other public R1,Peer
+106397,University of Arkansas,AR,2022,86.0,69.2,30936,Other public R1,Peer
+110635,University of California-Berkeley,CA,2022,96.0,94.0,45307,Other public R1,Peer
+110644,University of California-Davis,CA,2022,92.0,86.3,39679,Other public R1,Peer
+110653,University of California-Irvine,CA,2022,91.0,86.6,35937,Other public R1,Peer
+110662,University of California-Los Angeles,CA,2022,97.0,92.5,46430,Big Ten,Peer
+110671,University of California-Riverside,CA,2022,87.0,76.0,26809,Other public R1,Peer
+110680,University of California-San Diego,CA,2022,93.0,87.7,42006,Other public R1,Peer
+110705,University of California-Santa Barbara,CA,2022,92.0,85.7,26420,Other public R1,Peer
+110714,University of California-Santa Cruz,CA,2022,88.0,76.9,19478,Other public R1,Peer
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,2022,70.0,43.9,23744,Other public R1,Peer
+126614,University of Colorado Boulder,CO,2022,88.0,74.7,39585,Other public R1,Peer
+126775,Colorado School of Mines,CO,2022,94.0,81.8,7403,Other public R1,Peer
+126818,Colorado State University-Fort Collins,CO,2022,86.0,66.6,33403,Other public R1,Peer
+129020,University of Connecticut,CT,2022,91.0,83.2,27003,Other public R1,Peer
+130943,University of Delaware,DE,2022,91.0,79.6,24039,Other public R1,Peer
+132903,University of Central Florida,FL,2022,93.0,75.6,68346,Other public R1,Peer
+133951,Florida International University,FL,2022,91.0,69.2,55609,Other public R1,Peer
+134097,Florida State University,FL,2022,94.0,84.8,44161,Other public R1,Peer
+134130,University of Florida,FL,2022,97.0,90.0,55211,Other public R1,Peer
+137351,University of South Florida,FL,2022,90.0,74.1,49600,Other public R1,Peer
+139755,Georgia Institute of Technology-Main Campus,GA,2022,98.0,92.6,45296,Other public R1,Peer
+139940,Georgia State University,GA,2022,78.0,54.9,36516,Other public R1,Peer
+139959,University of Georgia,GA,2022,94.0,88.1,40607,Other public R1,Peer
+141574,University of Hawaii at Manoa,HI,2022,79.0,62.3,19074,Other public R1,Peer
+145600,University of Illinois Chicago,IL,2022,78.0,61.6,33747,Other public R1,Peer
+145637,University of Illinois Urbana-Champaign,IL,2022,93.0,84.7,56916,Big Ten,UIUC
+151351,Indiana University-Bloomington,IN,2022,90.0,81.1,47005,Big Ten,Peer
+153603,Iowa State University,IA,2022,86.0,74.4,29969,Other public R1,Peer
+153658,University of Iowa,IA,2022,89.0,73.7,30015,Big Ten,Peer
+155317,University of Kansas,KS,2022,85.0,67.3,26708,Other public R1,Peer
+155399,Kansas State University,KS,2022,86.0,68.6,19722,Other public R1,Peer
+157085,University of Kentucky,KY,2022,85.0,68.8,31547,Other public R1,Peer
+157289,University of Louisville,KY,2022,78.0,62.2,22017,Other public R1,Peer
+159391,Louisiana State University and Agricultural & Mechanical College,LA,2022,84.0,69.8,37348,Other public R1,Peer
+160658,University of Louisiana at Lafayette,LA,2022,70.0,51.1,15219,Other public R1,Peer
+161253,University of Maine,ME,2022,75.0,55.3,12231,Other public R1,Peer
+163268,University of Maryland-Baltimore County,MD,2022,86.0,70.3,13991,Other public R1,Peer
+163286,University of Maryland-College Park,MD,2022,95.0,89.3,40792,Big Ten,Peer
+166629,University of Massachusetts-Amherst,MA,2022,90.0,83.0,32229,Other public R1,Peer
+170976,University of Michigan-Ann Arbor,MI,2022,97.0,93.2,51225,Big Ten,Peer
+171100,Michigan State University,MI,2022,89.0,81.6,50023,Big Ten,Peer
+172644,Wayne State University,MI,2022,84.0,60.3,23630,Other public R1,Peer
+174066,University of Minnesota-Twin Cities,MN,2022,90.0,84.4,54955,Big Ten,Peer
+176017,University of Mississippi,MS,2022,89.0,67.8,22300,Other public R1,Peer
+176080,Mississippi State University,MS,2022,81.0,63.1,22649,Other public R1,Peer
+176372,University of Southern Mississippi,MS,2022,70.0,51.7,13526,Other public R1,Peer
+178396,University of Missouri-Columbia,MO,2022,89.0,75.3,31304,Other public R1,Peer
+180461,Montana State University,MT,2022,75.0,56.8,16681,Other public R1,Peer
+180489,The University of Montana,MT,2022,74.0,46.4,9955,Other public R1,Peer
+181464,University of Nebraska-Lincoln,NE,2022,82.0,64.9,23805,Big Ten,Peer
+182281,University of Nevada-Las Vegas,NV,2022,77.0,47.2,30660,Other public R1,Peer
+182290,University of Nevada-Reno,NV,2022,80.0,61.8,20945,Other public R1,Peer
+183044,University of New Hampshire-Main Campus,NH,2022,86.0,77.9,13930,Other public R1,Peer
+185828,New Jersey Institute of Technology,NJ,2022,89.0,73.7,12332,Other public R1,Peer
+186380,Rutgers University-New Brunswick,NJ,2022,92.0,84.5,50637,Big Ten,Peer
+187985,University of New Mexico-Main Campus,NM,2022,72.0,51.7,21488,Other public R1,Peer
+196060,University at Albany,NY,2022,83.0,65.6,16658,Other public R1,Peer
+196079,Binghamton University,NY,2022,91.0,82.8,18312,Other public R1,Peer
+196088,University at Buffalo,NY,2022,84.0,73.5,32099,Other public R1,Peer
+196097,Stony Brook University,NY,2022,88.0,77.8,25710,Other public R1,Peer
+199120,University of North Carolina at Chapel Hill,NC,2022,96.0,91.3,31705,Other public R1,Peer
+199193,North Carolina State University at Raleigh,NC,2022,94.0,84.6,36700,Other public R1,Peer
+200332,North Dakota State University-Main Campus,ND,2022,75.0,63.2,12242,Other public R1,Peer
+201885,University of Cincinnati-Main Campus,OH,2022,86.0,72.0,41155,Other public R1,Peer
+203517,Kent State University at Kent,OH,2022,78.0,64.8,25854,Other public R1,Peer
+204796,Ohio State University-Main Campus,OH,2022,93.0,88.0,60540,Big Ten,Peer
+204857,Ohio University-Main Campus,OH,2022,79.0,65.1,24145,Other public R1,Peer
+207388,Oklahoma State University-Main Campus,OK,2022,83.0,64.9,25372,Other public R1,Peer
+207500,University of Oklahoma-Norman Campus,OK,2022,88.0,76.1,28308,Other public R1,Peer
+209542,Oregon State University,OR,2022,87.0,70.0,34292,Other public R1,Peer
+209551,University of Oregon,OR,2022,86.0,73.4,23163,Big Ten,Peer
+214777,Pennsylvania State University-Main Campus,PA,2022,91.0,83.3,50028,Big Ten,Peer
+215293,University of Pittsburgh-Pittsburgh Campus,PA,2022,93.0,83.7,33767,Other public R1,Peer
+216339,Temple University,PA,2022,84.0,77.9,33196,Other public R1,Peer
+217882,Clemson University,SC,2022,92.0,85.3,28466,Other public R1,Peer
+218663,University of South Carolina-Columbia,SC,2022,90.0,78.3,35653,Other public R1,Peer
+220862,University of Memphis,TN,2022,75.0,48.3,21917,Other public R1,Peer
+221759,The University of Tennessee-Knoxville,TN,2022,89.0,72.6,33805,Other public R1,Peer
+225511,University of Houston,TX,2022,85.0,63.1,46700,Other public R1,Peer
+227216,University of North Texas,TX,2022,80.0,58.9,44767,Other public R1,Peer
+228723,Texas A & M University-College Station,TX,2022,95.0,83.5,74014,Other public R1,Peer
+228769,The University of Texas at Arlington,TX,2022,74.0,53.5,43946,Other public R1,Peer
+228778,The University of Texas at Austin,TX,2022,95.0,87.8,52384,Other public R1,Peer
+228787,The University of Texas at Dallas,TX,2022,87.0,69.6,31570,Other public R1,Peer
+228796,The University of Texas at El Paso,TX,2022,75.0,47.3,23880,Other public R1,Peer
+229027,The University of Texas at San Antonio,TX,2022,80.0,53.5,34393,Other public R1,Peer
+229115,Texas Tech University,TX,2022,86.0,66.5,40378,Other public R1,Peer
+230728,Utah State University,UT,2022,74.0,54.4,27943,Other public R1,Peer
+230764,University of Utah,UT,2022,85.0,64.5,34734,Other public R1,Peer
+232186,George Mason University,VA,2022,85.0,70.6,39049,Other public R1,Peer
+232982,Old Dominion University,VA,2022,74.0,48.3,23107,Other public R1,Peer
+233921,Virginia Polytechnic Institute and State University,VA,2022,91.0,86.4,38170,Other public R1,Peer
+234030,Virginia Commonwealth University,VA,2022,85.0,64.5,28082,Other public R1,Peer
+234076,University of Virginia-Main Campus,VA,2022,97.0,95.2,26082,Other public R1,Peer
+236939,Washington State University,WA,2022,81.0,62.3,27539,Other public R1,Peer
+236948,University of Washington-Seattle Campus,WA,2022,94.0,84.4,52319,Big Ten,Peer
+238032,West Virginia University,WV,2022,79.0,62.1,24741,Other public R1,Peer
+240444,University of Wisconsin-Madison,WI,2022,94.0,89.2,48956,Big Ten,Peer
+240453,University of Wisconsin-Milwaukee,WI,2022,72.0,47.9,22676,Other public R1,Peer
+243780,Purdue University-Main Campus,IN,2022,90.0,83.0,51528,Big Ten,Peer
+100663,University of Alabama at Birmingham,AL,2023,82.0,62.6,21160,Other public R1,Peer
+100706,University of Alabama in Huntsville,AL,2023,81.0,61.9,8743,Other public R1,Peer
+100751,The University of Alabama,AL,2023,86.0,73.7,39622,Other public R1,Peer
+100858,Auburn University,AL,2023,93.0,79.2,33015,Other public R1,Peer
+104151,Arizona State University Campus Immersion,AZ,2023,85.0,67.8,79593,Other public R1,Peer
+104179,University of Arizona,AZ,2023,88.0,65.9,53001,Other public R1,Peer
+106397,University of Arkansas,AR,2023,86.0,70.0,32140,Other public R1,Peer
+110635,University of California-Berkeley,CA,2023,97.0,92.9,45699,Other public R1,Peer
+110644,University of California-Davis,CA,2023,93.0,85.1,39707,Other public R1,Peer
+110653,University of California-Irvine,CA,2023,94.0,86.0,36582,Other public R1,Peer
+110662,University of California-Los Angeles,CA,2023,97.0,92.7,46678,Big Ten,Peer
+110671,University of California-Riverside,CA,2023,88.0,76.6,26426,Other public R1,Peer
+110680,University of California-San Diego,CA,2023,94.0,87.6,42376,Other public R1,Peer
+110705,University of California-Santa Barbara,CA,2023,92.0,85.3,26068,Other public R1,Peer
+110714,University of California-Santa Cruz,CA,2023,90.0,74.5,19764,Other public R1,Peer
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,2023,71.0,47.4,23409,Other public R1,Peer
+126614,University of Colorado Boulder,CO,2023,89.0,75.0,41432,Other public R1,Peer
+126775,Colorado School of Mines,CO,2023,93.0,79.4,7599,Other public R1,Peer
+126818,Colorado State University-Fort Collins,CO,2023,85.0,66.9,33500,Other public R1,Peer
+129020,University of Connecticut,CT,2023,91.0,83.8,27364,Other public R1,Peer
+130943,University of Delaware,DE,2023,90.0,78.8,24221,Other public R1,Peer
+132903,University of Central Florida,FL,2023,92.0,75.1,69233,Other public R1,Peer
+133951,Florida International University,FL,2023,92.0,73.9,53953,Other public R1,Peer
+134097,Florida State University,FL,2023,96.0,83.0,43234,Other public R1,Peer
+134130,University of Florida,FL,2023,97.0,91.5,54814,Other public R1,Peer
+137351,University of South Florida,FL,2023,91.0,74.6,48572,Other public R1,Peer
+139755,Georgia Institute of Technology-Main Campus,GA,2023,98.0,92.3,47946,Other public R1,Peer
+139940,Georgia State University,GA,2023,78.0,53.7,34974,Other public R1,Peer
+139959,University of Georgia,GA,2023,95.0,87.2,41615,Other public R1,Peer
+141574,University of Hawaii at Manoa,HI,2023,75.0,62.6,19256,Other public R1,Peer
+145600,University of Illinois Chicago,IL,2023,78.0,60.3,33522,Other public R1,Peer
+145637,University of Illinois Urbana-Champaign,IL,2023,94.0,84.9,56563,Big Ten,UIUC
+151351,Indiana University-Bloomington,IN,2023,91.0,81.2,47527,Big Ten,Peer
+153603,Iowa State University,IA,2023,88.0,75.5,30177,Other public R1,Peer
+153658,University of Iowa,IA,2023,89.0,73.1,30042,Big Ten,Peer
+155317,University of Kansas,KS,2023,85.0,68.8,28406,Other public R1,Peer
+155399,Kansas State University,KS,2023,87.0,70.5,19745,Other public R1,Peer
+157085,University of Kentucky,KY,2023,87.0,69.9,32703,Other public R1,Peer
+157289,University of Louisville,KY,2023,81.0,60.7,22139,Other public R1,Peer
+159391,Louisiana State University and Agricultural & Mechanical College,LA,2023,84.0,71.0,39418,Other public R1,Peer
+160658,University of Louisiana at Lafayette,LA,2023,76.0,52.0,15345,Other public R1,Peer
+161253,University of Maine,ME,2023,77.0,56.4,11760,Other public R1,Peer
+163268,University of Maryland-Baltimore County,MD,2023,87.0,70.6,14148,Other public R1,Peer
+163286,University of Maryland-College Park,MD,2023,96.0,88.6,40813,Big Ten,Peer
+166629,University of Massachusetts-Amherst,MA,2023,91.0,83.2,31810,Other public R1,Peer
+170976,University of Michigan-Ann Arbor,MI,2023,98.0,93.2,52065,Big Ten,Peer
+171100,Michigan State University,MI,2023,91.0,82.2,51316,Big Ten,Peer
+172644,Wayne State University,MI,2023,82.0,56.5,23553,Other public R1,Peer
+174066,University of Minnesota-Twin Cities,MN,2023,91.0,84.8,54890,Big Ten,Peer
+176017,University of Mississippi,MS,2023,88.0,68.5,24043,Other public R1,Peer
+176080,Mississippi State University,MS,2023,83.0,62.9,22657,Other public R1,Peer
+176372,University of Southern Mississippi,MS,2023,70.0,50.6,13110,Other public R1,Peer
+178396,University of Missouri-Columbia,MO,2023,91.0,76.2,31013,Other public R1,Peer
+180461,Montana State University,MT,2023,78.0,57.3,16960,Other public R1,Peer
+180489,The University of Montana,MT,2023,76.0,45.4,10327,Other public R1,Peer
+181464,University of Nebraska-Lincoln,NE,2023,84.0,65.8,23986,Big Ten,Peer
+182281,University of Nevada-Las Vegas,NV,2023,78.0,50.1,31094,Other public R1,Peer
+182290,University of Nevada-Reno,NV,2023,80.0,62.4,21778,Other public R1,Peer
+183044,University of New Hampshire-Main Campus,NH,2023,86.0,76.4,13626,Other public R1,Peer
+185828,New Jersey Institute of Technology,NJ,2023,91.0,73.1,13007,Other public R1,Peer
+186380,Rutgers University-New Brunswick,NJ,2023,93.0,85.0,50617,Big Ten,Peer
+187985,University of New Mexico-Main Campus,NM,2023,73.0,52.5,22700,Other public R1,Peer
+196060,University at Albany,NY,2023,83.0,63.9,16880,Other public R1,Peer
+196079,Binghamton University,NY,2023,88.0,83.6,18456,Other public R1,Peer
+196088,University at Buffalo,NY,2023,84.0,73.4,31889,Other public R1,Peer
+196097,Stony Brook University,NY,2023,89.0,77.8,25865,Other public R1,Peer
+199120,University of North Carolina at Chapel Hill,NC,2023,97.0,92.1,32234,Other public R1,Peer
+199193,North Carolina State University at Raleigh,NC,2023,93.0,84.6,37323,Other public R1,Peer
+200332,North Dakota State University-Main Campus,ND,2023,77.0,63.7,11952,Other public R1,Peer
+201885,University of Cincinnati-Main Campus,OH,2023,86.0,71.5,43338,Other public R1,Peer
+203517,Kent State University at Kent,OH,2023,79.0,65.5,26106,Other public R1,Peer
+204796,Ohio State University-Main Campus,OH,2023,94.0,87.7,60046,Big Ten,Peer
+204857,Ohio University-Main Campus,OH,2023,82.0,66.4,24937,Other public R1,Peer
+207388,Oklahoma State University-Main Campus,OK,2023,84.0,65.9,26043,Other public R1,Peer
+207500,University of Oklahoma-Norman Campus,OK,2023,89.0,75.3,29145,Other public R1,Peer
+209542,Oregon State University,OR,2023,87.0,70.6,35622,Other public R1,Peer
+209551,University of Oregon,OR,2023,85.0,71.5,23786,Big Ten,Peer
+214777,Pennsylvania State University-Main Campus,PA,2023,92.0,85.7,50399,Big Ten,Peer
+215293,University of Pittsburgh-Pittsburgh Campus,PA,2023,92.0,84.3,34525,Other public R1,Peer
+216339,Temple University,PA,2023,83.0,74.7,30205,Other public R1,Peer
+217882,Clemson University,SC,2023,93.0,87.9,28747,Other public R1,Peer
+218663,University of South Carolina-Columbia,SC,2023,91.0,77.7,36579,Other public R1,Peer
+220862,University of Memphis,TN,2023,71.0,49.4,21736,Other public R1,Peer
+221759,The University of Tennessee-Knoxville,TN,2023,91.0,73.5,36304,Other public R1,Peer
+225511,University of Houston,TX,2023,86.0,64.9,46676,Other public R1,Peer
+227216,University of North Texas,TX,2023,77.0,59.6,47507,Other public R1,Peer
+228723,Texas A & M University-College Station,TX,2023,94.0,83.8,76633,Other public R1,Peer
+228769,The University of Texas at Arlington,TX,2023,73.0,56.5,43992,Other public R1,Peer
+228778,The University of Texas at Austin,TX,2023,96.0,87.6,53082,Other public R1,Peer
+228787,The University of Texas at Dallas,TX,2023,88.0,70.8,30885,Other public R1,Peer
+228796,The University of Texas at El Paso,TX,2023,77.0,45.9,24351,Other public R1,Peer
+229027,The University of Texas at San Antonio,TX,2023,79.0,51.2,34864,Other public R1,Peer
+229115,Texas Tech University,TX,2023,85.0,67.5,40773,Other public R1,Peer
+230728,Utah State University,UT,2023,74.0,57.3,28063,Other public R1,Peer
+230764,University of Utah,UT,2023,85.0,63.9,35260,Other public R1,Peer
+232186,George Mason University,VA,2023,87.0,69.3,39527,Other public R1,Peer
+232982,Old Dominion University,VA,2023,76.0,44.4,22541,Other public R1,Peer
+233921,Virginia Polytechnic Institute and State University,VA,2023,92.0,86.3,38294,Other public R1,Peer
+234030,Virginia Commonwealth University,VA,2023,86.0,65.4,28238,Other public R1,Peer
+234076,University of Virginia-Main Campus,VA,2023,97.0,95.3,25924,Other public R1,Peer
+236939,Washington State University,WA,2023,80.0,61.6,26490,Other public R1,Peer
+236948,University of Washington-Seattle Campus,WA,2023,95.0,83.7,55620,Big Ten,Peer
+238032,West Virginia University,WV,2023,81.0,61.2,24200,Other public R1,Peer
+240444,University of Wisconsin-Madison,WI,2023,95.0,89.3,49605,Big Ten,Peer
+240453,University of Wisconsin-Milwaukee,WI,2023,72.0,51.2,22481,Other public R1,Peer
+243780,Purdue University-Main Campus,IN,2023,92.0,83.1,52905,Big Ten,Peer

@@ -1,0 +1,43 @@
+{
+  "year": 2023,
+  "n": 106,
+  "models": [
+    {
+      "model": "Model 1: retention only",
+      "slope": 1.681,
+      "ci_low": 1.561,
+      "ci_high": 1.8,
+      "p_value": "3.5e-50",
+      "r_squared": 0.883,
+      "n": 106
+    },
+    {
+      "model": "Model 2: retention + log(enrollment)",
+      "slope": 1.675,
+      "ci_low": 1.536,
+      "ci_high": 1.814,
+      "p_value": "9.7e-44",
+      "r_squared": 0.883,
+      "n": 106
+    }
+  ],
+  "log_enrollment_coef": 0.165,
+  "log_enrollment_p": "0.88",
+  "uiuc": {
+    "retention_rate": 94.0,
+    "grad_rate_6yr": 84.9,
+    "predicted": 84.53,
+    "residual": 0.37,
+    "residual_m2": 0.3
+  },
+  "uiuc_resid_rank": 56,
+  "residual_sd": 4.37,
+  "trim_slope": 1.727,
+  "slope_by_year": {
+    "2019": 1.793,
+    "2020": 1.981,
+    "2021": 1.661,
+    "2022": 1.708,
+    "2023": 1.681
+  }
+}

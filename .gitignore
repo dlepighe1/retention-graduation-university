@@ -1,0 +1,13 @@
+data/raw/ipeds/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local-only files
+debug.log
+*.twbr
+dashboard/archive/
+dashboard/gies_dashboard - Copy*
+dashboard/gies_dashboard_extracted.twbx
+dashboard/preview/view1_gies_vs_campus.png
+dashboard/preview/view3_peer_scatter.png
+Gies Portfolio Project Higher-Ed Enrollment, Retention & Graduation Dashboard.md

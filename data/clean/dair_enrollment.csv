@@ -1,0 +1,390 @@
+college,fall_year,level,headcount
+Armed Forces,2016,Undergraduate,0
+Armed Forces,2017,Undergraduate,0
+Armed Forces,2018,Undergraduate,0
+Armed Forces,2019,Undergraduate,0
+Armed Forces,2020,Undergraduate,0
+Armed Forces,2021,Undergraduate,0
+Armed Forces,2022,Undergraduate,0
+Armed Forces,2023,Undergraduate,0
+Armed Forces,2024,Undergraduate,0
+Armed Forces,2025,Undergraduate,0
+Carle Illinois College of Medicine,2016,Professional,0
+Carle Illinois College of Medicine,2017,Professional,0
+Carle Illinois College of Medicine,2018,Professional,32
+Carle Illinois College of Medicine,2019,Professional,61
+Carle Illinois College of Medicine,2020,Professional,110
+Carle Illinois College of Medicine,2021,Professional,153
+Carle Illinois College of Medicine,2022,Professional,183
+Carle Illinois College of Medicine,2023,Professional,203
+Carle Illinois College of Medicine,2024,Professional,227
+Carle Illinois College of Medicine,2025,Professional,248
+Carle Illinois College of Medicine,2026,Professional,262
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2016,Graduate,585
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2016,Undergraduate,2622
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2017,Graduate,684
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2017,Undergraduate,2578
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2018,Graduate,679
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2018,Undergraduate,2629
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2019,Graduate,745
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2019,Undergraduate,2801
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2020,Graduate,743
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2020,Undergraduate,2778
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2021,Graduate,756
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2021,Undergraduate,2820
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2022,Graduate,755
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2022,Undergraduate,2672
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2023,Graduate,755
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2023,Undergraduate,2674
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2024,Graduate,768
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2024,Undergraduate,2900
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2025,Graduate,762
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2025,Undergraduate,3081
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2026,Graduate,767
+"College of Agricultural, Consumer and Environmental Sciences (ACES)",2026,Undergraduate,3063
+College of Applied Health Sciences,2016,Graduate,280
+College of Applied Health Sciences,2016,Undergraduate,1953
+College of Applied Health Sciences,2017,Graduate,321
+College of Applied Health Sciences,2017,Undergraduate,1997
+College of Applied Health Sciences,2018,Graduate,321
+College of Applied Health Sciences,2018,Undergraduate,2038
+College of Applied Health Sciences,2019,Graduate,326
+College of Applied Health Sciences,2019,Undergraduate,2048
+College of Applied Health Sciences,2020,Graduate,358
+College of Applied Health Sciences,2020,Undergraduate,2023
+College of Applied Health Sciences,2021,Graduate,419
+College of Applied Health Sciences,2021,Undergraduate,2147
+College of Applied Health Sciences,2022,Graduate,400
+College of Applied Health Sciences,2022,Undergraduate,2218
+College of Applied Health Sciences,2023,Graduate,361
+College of Applied Health Sciences,2023,Undergraduate,2222
+College of Applied Health Sciences,2024,Graduate,408
+College of Applied Health Sciences,2024,Undergraduate,2234
+College of Applied Health Sciences,2025,Graduate,378
+College of Applied Health Sciences,2025,Undergraduate,2359
+College of Applied Health Sciences,2026,Graduate,383
+College of Applied Health Sciences,2026,Undergraduate,2497
+College of Education,2016,Graduate,586
+College of Education,2016,Undergraduate,615
+College of Education,2017,Graduate,877
+College of Education,2017,Undergraduate,634
+College of Education,2018,Graduate,1004
+College of Education,2018,Undergraduate,608
+College of Education,2019,Graduate,1158
+College of Education,2019,Undergraduate,589
+College of Education,2020,Graduate,1343
+College of Education,2020,Undergraduate,655
+College of Education,2021,Graduate,1424
+College of Education,2021,Undergraduate,675
+College of Education,2022,Graduate,1271
+College of Education,2022,Undergraduate,696
+College of Education,2023,Graduate,1086
+College of Education,2023,Undergraduate,728
+College of Education,2024,Graduate,1077
+College of Education,2024,Undergraduate,749
+College of Education,2025,Graduate,1038
+College of Education,2025,Undergraduate,824
+College of Education,2026,Graduate,1004
+College of Education,2026,Undergraduate,836
+College of Fine and Applied Arts,2016,Graduate,797
+College of Fine and Applied Arts,2016,Undergraduate,1624
+College of Fine and Applied Arts,2017,Graduate,811
+College of Fine and Applied Arts,2017,Undergraduate,1670
+College of Fine and Applied Arts,2018,Graduate,801
+College of Fine and Applied Arts,2018,Undergraduate,1678
+College of Fine and Applied Arts,2019,Graduate,730
+College of Fine and Applied Arts,2019,Undergraduate,1767
+College of Fine and Applied Arts,2020,Graduate,667
+College of Fine and Applied Arts,2020,Undergraduate,1766
+College of Fine and Applied Arts,2021,Graduate,693
+College of Fine and Applied Arts,2021,Undergraduate,1786
+College of Fine and Applied Arts,2022,Graduate,717
+College of Fine and Applied Arts,2022,Undergraduate,1785
+College of Fine and Applied Arts,2023,Graduate,656
+College of Fine and Applied Arts,2023,Undergraduate,1834
+College of Fine and Applied Arts,2024,Graduate,595
+College of Fine and Applied Arts,2024,Undergraduate,1859
+College of Fine and Applied Arts,2025,Graduate,609
+College of Fine and Applied Arts,2025,Undergraduate,1882
+College of Fine and Applied Arts,2026,Graduate,621
+College of Fine and Applied Arts,2026,Undergraduate,1910
+College of Law,2016,Graduate,73
+College of Law,2016,Professional,457
+College of Law,2017,Graduate,87
+College of Law,2017,Professional,458
+College of Law,2018,Graduate,70
+College of Law,2018,Professional,417
+College of Law,2019,Graduate,102
+College of Law,2019,Professional,420
+College of Law,2020,Graduate,61
+College of Law,2020,Professional,408
+College of Law,2021,Graduate,150
+College of Law,2021,Professional,505
+College of Law,2022,Graduate,144
+College of Law,2022,Professional,543
+College of Law,2023,Graduate,113
+College of Law,2023,Professional,542
+College of Law,2024,Graduate,128
+College of Law,2024,Professional,494
+College of Law,2025,Graduate,145
+College of Law,2025,Professional,526
+College of Law,2026,Graduate,95
+College of Law,2026,Professional,535
+College of Liberal Arts and Sciences,2016,Graduate,2520
+College of Liberal Arts and Sciences,2016,Undergraduate,11683
+College of Liberal Arts and Sciences,2017,Graduate,2564
+College of Liberal Arts and Sciences,2017,Undergraduate,11935
+College of Liberal Arts and Sciences,2018,Graduate,2500
+College of Liberal Arts and Sciences,2018,Undergraduate,12035
+College of Liberal Arts and Sciences,2019,Graduate,2632
+College of Liberal Arts and Sciences,2019,Undergraduate,12252
+College of Liberal Arts and Sciences,2020,Graduate,2562
+College of Liberal Arts and Sciences,2020,Undergraduate,11963
+College of Liberal Arts and Sciences,2021,Graduate,2552
+College of Liberal Arts and Sciences,2021,Undergraduate,12160
+College of Liberal Arts and Sciences,2022,Graduate,2622
+College of Liberal Arts and Sciences,2022,Undergraduate,12163
+College of Liberal Arts and Sciences,2023,Graduate,2610
+College of Liberal Arts and Sciences,2023,Undergraduate,12297
+College of Liberal Arts and Sciences,2024,Graduate,2707
+College of Liberal Arts and Sciences,2024,Undergraduate,12760
+College of Liberal Arts and Sciences,2025,Graduate,2703
+College of Liberal Arts and Sciences,2025,Undergraduate,12975
+College of Liberal Arts and Sciences,2026,Graduate,2502
+College of Liberal Arts and Sciences,2026,Undergraduate,13059
+College of Media,2016,Graduate,78
+College of Media,2016,Undergraduate,1015
+College of Media,2017,Graduate,95
+College of Media,2017,Undergraduate,997
+College of Media,2018,Graduate,140
+College of Media,2018,Undergraduate,993
+College of Media,2019,Graduate,145
+College of Media,2019,Undergraduate,1005
+College of Media,2020,Graduate,185
+College of Media,2020,Undergraduate,943
+College of Media,2021,Graduate,208
+College of Media,2021,Undergraduate,887
+College of Media,2022,Graduate,177
+College of Media,2022,Undergraduate,869
+College of Media,2023,Graduate,141
+College of Media,2023,Undergraduate,942
+College of Media,2024,Graduate,154
+College of Media,2024,Undergraduate,1026
+College of Media,2025,Graduate,159
+College of Media,2025,Undergraduate,1129
+College of Media,2026,Graduate,146
+College of Media,2026,Undergraduate,1181
+College of Veterinary Medicine,2016,Graduate,70
+College of Veterinary Medicine,2016,Professional,528
+College of Veterinary Medicine,2017,Graduate,75
+College of Veterinary Medicine,2017,Professional,534
+College of Veterinary Medicine,2018,Graduate,82
+College of Veterinary Medicine,2018,Professional,545
+College of Veterinary Medicine,2019,Graduate,90
+College of Veterinary Medicine,2019,Professional,546
+College of Veterinary Medicine,2020,Graduate,88
+College of Veterinary Medicine,2020,Professional,519
+College of Veterinary Medicine,2021,Graduate,118
+College of Veterinary Medicine,2021,Professional,515
+College of Veterinary Medicine,2022,Graduate,167
+College of Veterinary Medicine,2022,Professional,567
+College of Veterinary Medicine,2023,Graduate,189
+College of Veterinary Medicine,2023,Professional,608
+College of Veterinary Medicine,2024,Graduate,218
+College of Veterinary Medicine,2024,Professional,612
+College of Veterinary Medicine,2025,Graduate,263
+College of Veterinary Medicine,2025,Professional,625
+College of Veterinary Medicine,2026,Graduate,318
+College of Veterinary Medicine,2026,Professional,629
+Dentistry - UIC,2016,Professional,0
+Dentistry - UIC,2017,Professional,0
+Dentistry - UIC,2018,Professional,0
+Dentistry - UIC,2019,Professional,0
+Dentistry - UIC,2020,Professional,0
+Dentistry - UIC,2021,Professional,0
+Dentistry - UIC,2022,Professional,0
+Dentistry - UIC,2023,Professional,0
+Dentistry - UIC,2024,Professional,0
+Dentistry - UIC,2025,Professional,0
+Division of Exploratory Studies,2016,Undergraduate,3000
+Division of Exploratory Studies,2017,Undergraduate,2867
+Division of Exploratory Studies,2018,Undergraduate,2962
+Division of Exploratory Studies,2019,Undergraduate,2765
+Division of Exploratory Studies,2020,Undergraduate,2673
+Division of Exploratory Studies,2021,Undergraduate,2437
+Division of Exploratory Studies,2022,Undergraduate,2230
+Division of Exploratory Studies,2023,Undergraduate,2047
+Division of Exploratory Studies,2024,Undergraduate,1927
+Division of Exploratory Studies,2025,Undergraduate,1755
+Division of Exploratory Studies,2026,Undergraduate,1688
+Gies College of Business,2016,Graduate,1093
+Gies College of Business,2016,Undergraduate,3102
+Gies College of Business,2017,Graduate,2050
+Gies College of Business,2017,Undergraduate,3105
+Gies College of Business,2018,Graduate,3073
+Gies College of Business,2018,Undergraduate,3140
+Gies College of Business,2019,Graduate,4142
+Gies College of Business,2019,Undergraduate,3115
+Gies College of Business,2020,Graduate,5244
+Gies College of Business,2020,Undergraduate,2989
+Gies College of Business,2021,Graduate,6666
+Gies College of Business,2021,Undergraduate,3165
+Gies College of Business,2022,Graduate,6321
+Gies College of Business,2022,Undergraduate,3117
+Gies College of Business,2023,Graduate,5790
+Gies College of Business,2023,Undergraduate,3112
+Gies College of Business,2024,Graduate,6132
+Gies College of Business,2024,Undergraduate,3197
+Gies College of Business,2025,Graduate,6311
+Gies College of Business,2025,Undergraduate,3329
+Gies College of Business,2026,Graduate,6443
+Gies College of Business,2026,Undergraduate,3652
+Grainger College of Engineering,2016,Graduate,3505
+Grainger College of Engineering,2016,Undergraduate,7564
+Grainger College of Engineering,2017,Graduate,3989
+Grainger College of Engineering,2017,Undergraduate,7541
+Grainger College of Engineering,2018,Graduate,4229
+Grainger College of Engineering,2018,Undergraduate,7234
+Grainger College of Engineering,2019,Graduate,4465
+Grainger College of Engineering,2019,Undergraduate,7129
+Grainger College of Engineering,2020,Graduate,4701
+Grainger College of Engineering,2020,Undergraduate,7206
+Grainger College of Engineering,2021,Graduate,5328
+Grainger College of Engineering,2021,Undergraduate,7816
+Grainger College of Engineering,2022,Graduate,5806
+Grainger College of Engineering,2022,Undergraduate,8341
+Grainger College of Engineering,2023,Graduate,5948
+Grainger College of Engineering,2023,Undergraduate,8659
+Grainger College of Engineering,2024,Graduate,6459
+Grainger College of Engineering,2024,Undergraduate,9254
+Grainger College of Engineering,2025,Graduate,6432
+Grainger College of Engineering,2025,Undergraduate,9814
+Grainger College of Engineering,2026,Graduate,6102
+Grainger College of Engineering,2026,Undergraduate,10077
+Institute of Aviation,2016,Graduate,0
+Institute of Aviation,2016,Undergraduate,0
+Institute of Aviation,2017,Graduate,0
+Institute of Aviation,2017,Undergraduate,0
+Institute of Aviation,2018,Graduate,0
+Institute of Aviation,2018,Undergraduate,0
+Institute of Aviation,2019,Graduate,0
+Institute of Aviation,2019,Undergraduate,0
+Institute of Aviation,2020,Graduate,0
+Institute of Aviation,2020,Undergraduate,0
+Institute of Aviation,2021,Graduate,0
+Institute of Aviation,2021,Undergraduate,0
+Institute of Aviation,2022,Graduate,0
+Institute of Aviation,2022,Undergraduate,0
+Institute of Aviation,2023,Graduate,0
+Institute of Aviation,2023,Undergraduate,0
+Institute of Aviation,2024,Graduate,0
+Institute of Aviation,2024,Undergraduate,0
+Institute of Aviation,2025,Graduate,0
+Institute of Aviation,2025,Undergraduate,0
+Medicine - UIC,2016,Professional,0
+Medicine - UIC,2017,Professional,0
+Medicine - UIC,2018,Professional,0
+Medicine - UIC,2019,Professional,0
+Medicine - UIC,2020,Professional,0
+Medicine - UIC,2021,Professional,0
+Medicine - UIC,2022,Professional,0
+Medicine - UIC,2023,Professional,0
+Medicine - UIC,2024,Professional,0
+Medicine - UIC,2025,Professional,0
+Nursing - UIC,2016,Undergraduate,0
+Nursing - UIC,2017,Undergraduate,0
+Nursing - UIC,2018,Undergraduate,0
+Nursing - UIC,2019,Undergraduate,0
+Nursing - UIC,2020,Undergraduate,0
+Nursing - UIC,2021,Undergraduate,0
+Nursing - UIC,2022,Undergraduate,0
+Nursing - UIC,2023,Undergraduate,0
+Nursing - UIC,2024,Undergraduate,0
+Nursing - UIC,2025,Undergraduate,0
+Pharmacy - UIC,2016,Professional,0
+Pharmacy - UIC,2017,Professional,0
+Pharmacy - UIC,2018,Professional,0
+Pharmacy - UIC,2019,Professional,0
+Pharmacy - UIC,2020,Professional,0
+Pharmacy - UIC,2021,Professional,0
+Pharmacy - UIC,2022,Professional,0
+Pharmacy - UIC,2023,Professional,0
+Pharmacy - UIC,2024,Professional,0
+Pharmacy - UIC,2025,Professional,0
+School of Information Sciences,2016,Graduate,305
+School of Information Sciences,2016,Undergraduate,0
+School of Information Sciences,2017,Graduate,742
+School of Information Sciences,2017,Undergraduate,0
+School of Information Sciences,2018,Graduate,809
+School of Information Sciences,2018,Undergraduate,0
+School of Information Sciences,2019,Graduate,841
+School of Information Sciences,2019,Undergraduate,0
+School of Information Sciences,2020,Graduate,882
+School of Information Sciences,2020,Undergraduate,122
+School of Information Sciences,2021,Graduate,1172
+School of Information Sciences,2021,Undergraduate,296
+School of Information Sciences,2022,Graduate,1187
+School of Information Sciences,2022,Undergraduate,442
+School of Information Sciences,2023,Graduate,1050
+School of Information Sciences,2023,Undergraduate,560
+School of Information Sciences,2024,Graduate,1240
+School of Information Sciences,2024,Undergraduate,818
+School of Information Sciences,2025,Graduate,1189
+School of Information Sciences,2025,Undergraduate,905
+School of Information Sciences,2026,Graduate,981
+School of Information Sciences,2026,Undergraduate,859
+School of Labor and Employment Relations,2016,Graduate,186
+School of Labor and Employment Relations,2017,Graduate,258
+School of Labor and Employment Relations,2018,Graduate,251
+School of Labor and Employment Relations,2019,Graduate,260
+School of Labor and Employment Relations,2020,Graduate,266
+School of Labor and Employment Relations,2021,Graduate,308
+School of Labor and Employment Relations,2022,Graduate,293
+School of Labor and Employment Relations,2023,Graduate,279
+School of Labor and Employment Relations,2024,Graduate,274
+School of Labor and Employment Relations,2025,Graduate,264
+School of Labor and Employment Relations,2026,Graduate,245
+School of Social Work,2016,Graduate,234
+School of Social Work,2016,Undergraduate,277
+School of Social Work,2017,Graduate,317
+School of Social Work,2017,Undergraduate,269
+School of Social Work,2018,Graduate,348
+School of Social Work,2018,Undergraduate,259
+School of Social Work,2019,Graduate,384
+School of Social Work,2019,Undergraduate,266
+School of Social Work,2020,Graduate,439
+School of Social Work,2020,Undergraduate,264
+School of Social Work,2021,Graduate,501
+School of Social Work,2021,Undergraduate,263
+School of Social Work,2022,Graduate,456
+School of Social Work,2022,Undergraduate,281
+School of Social Work,2023,Graduate,477
+School of Social Work,2023,Undergraduate,276
+School of Social Work,2024,Graduate,503
+School of Social Work,2024,Undergraduate,322
+School of Social Work,2025,Graduate,511
+School of Social Work,2025,Undergraduate,398
+School of Social Work,2026,Graduate,527
+School of Social Work,2026,Undergraduate,406
+Unaffiliated Non-degree,2016,Graduate,116
+Unaffiliated Non-degree,2016,Undergraduate,12
+Unaffiliated Non-degree,2017,Graduate,340
+Unaffiliated Non-degree,2017,Undergraduate,31
+Unaffiliated Non-degree,2018,Graduate,365
+Unaffiliated Non-degree,2018,Undergraduate,97
+Unaffiliated Non-degree,2019,Graduate,299
+Unaffiliated Non-degree,2019,Undergraduate,113
+Unaffiliated Non-degree,2020,Graduate,263
+Unaffiliated Non-degree,2020,Undergraduate,110
+Unaffiliated Non-degree,2021,Graduate,230
+Unaffiliated Non-degree,2021,Undergraduate,107
+Unaffiliated Non-degree,2022,Graduate,93
+Unaffiliated Non-degree,2022,Undergraduate,128
+Unaffiliated Non-degree,2023,Graduate,128
+Unaffiliated Non-degree,2023,Undergraduate,116
+Unaffiliated Non-degree,2024,Graduate,102
+Unaffiliated Non-degree,2024,Undergraduate,94
+Unaffiliated Non-degree,2025,Graduate,113
+Unaffiliated Non-degree,2025,Undergraduate,121
+Unaffiliated Non-degree,2026,Graduate,107
+Unaffiliated Non-degree,2026,Undergraduate,165

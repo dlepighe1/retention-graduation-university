@@ -1,0 +1,65 @@
+{
+  "trend": {
+    "4-year graduation": {
+      "first_gap": 12.67,
+      "last_gap": 13.89,
+      "largest_gap": 13.99,
+      "smallest_gap": 12.67,
+      "slope_pts_per_cohort": 0.18
+    },
+    "5-year graduation": {
+      "first_gap": 7.33,
+      "last_gap": 8.91,
+      "largest_gap": 8.96,
+      "smallest_gap": 7.33,
+      "slope_pts_per_cohort": 0.18
+    },
+    "6-year graduation": {
+      "first_gap": 7.23,
+      "last_gap": 7.68,
+      "largest_gap": 7.68,
+      "smallest_gap": 6.24,
+      "slope_pts_per_cohort": -0.01
+    },
+    "First-year retention": {
+      "first_gap": 3.11,
+      "last_gap": 2.45,
+      "largest_gap": 3.11,
+      "smallest_gap": 0.24,
+      "slope_pts_per_cohort": -0.1
+    }
+  },
+  "ranks": {
+    "First-year retention": 1,
+    "4-year graduation": 1,
+    "6-year graduation": 1
+  },
+  "ztest": {
+    "gies_pct": 97.33,
+    "rest_of_campus_pct": 94.65,
+    "diff_pts": 2.68,
+    "ci_low": 1.46,
+    "ci_high": 3.91,
+    "z": 3.27,
+    "p_value": 0.0011,
+    "n_gies": 787,
+    "n_rest": 8408
+  },
+  "latest": {
+    "First-year retention": {
+      "All campus": 94.88,
+      "Gies": 97.33,
+      "gap_pts": 2.45
+    },
+    "4-year graduation": {
+      "All campus": 74.21,
+      "Gies": 88.1,
+      "gap_pts": 13.89
+    },
+    "6-year graduation": {
+      "All campus": 85.04,
+      "Gies": 92.72,
+      "gap_pts": 7.68
+    }
+  }
+}
